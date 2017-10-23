@@ -166,3 +166,17 @@
 #view-gallery{
   text-align: right;
 }
+#drink1{
+  width: 345px;
+  height: 390px;
+}
+#foodmenu{
+  background-image: url(../imgs/backgrounds/foodsBg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 30px;
+padding-top: 40px;bo
+}
+#fast{color:#F15A29;
+
+}
