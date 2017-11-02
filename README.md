@@ -4,10 +4,13 @@ Author:
 ------
 Raymond Okwenda
 
-#Project Name:
+Project Name:
+--------
 anitas-kitchen
+-----------
 
-#Description
+Description 
+----------------------------
 
 This project is a landing page for anitas-project. It has been developed using HTML, CSS and BOOTSTRAP. The main objective is to understand the styling of the webpages and the basics of stylings.
 
