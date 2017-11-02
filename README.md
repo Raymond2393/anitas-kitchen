@@ -16,3 +16,8 @@ This project is a landing page for anitas-project. It has been developed using H
 Link to deployed page ( https://raymond2393.github.io/anitas-kitchen/) anitas-kitchen
 
 © raymond  | Credits MORINGA SCHOOL
+# License and Copyright
+MIT license
+
+
+
